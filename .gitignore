@@ -1,0 +1,27 @@
+### Csharp ###
+
+## Build results
+**/[Bb]in/
+**/[Oo]bj/
+
+## Properties
+**/Properties/
+**/s3_pr_cw.csproj.user
+
+### Csharp ###
+
+
+### IntelliJ IDEA ###
+
+## Rider
+**/*.sln.DotSettings.user
+
+### IntelliJ IDEA ###
+
+
+### Visual Studio ###
+
+## IDE settings
+**/.vs
+
+### Visual Studio ###
